@@ -1,0 +1,8 @@
+C:\Users\KONGNYUY\Desktop\CSharpWork\ClassesAndObjectsInC\ClassesAndObjectsInC\obj\Debug\ClassesAndObjectsInC.csproj.AssemblyReference.cache
+C:\Users\KONGNYUY\Desktop\CSharpWork\ClassesAndObjectsInC\ClassesAndObjectsInC\obj\Debug\ClassesAndObjectsInC.csproj.SuggestedBindingRedirects.cache
+C:\Users\KONGNYUY\Desktop\CSharpWork\ClassesAndObjectsInC\ClassesAndObjectsInC\obj\Debug\ClassesAndObjectsInC.csproj.CoreCompileInputs.cache
+C:\Users\KONGNYUY\Desktop\CSharpWork\ClassesAndObjectsInC\ClassesAndObjectsInC\bin\Debug\ClassesAndObjectsInC.exe.config
+C:\Users\KONGNYUY\Desktop\CSharpWork\ClassesAndObjectsInC\ClassesAndObjectsInC\bin\Debug\ClassesAndObjectsInC.exe
+C:\Users\KONGNYUY\Desktop\CSharpWork\ClassesAndObjectsInC\ClassesAndObjectsInC\bin\Debug\ClassesAndObjectsInC.pdb
+C:\Users\KONGNYUY\Desktop\CSharpWork\ClassesAndObjectsInC\ClassesAndObjectsInC\obj\Debug\ClassesAndObjectsInC.exe
+C:\Users\KONGNYUY\Desktop\CSharpWork\ClassesAndObjectsInC\ClassesAndObjectsInC\obj\Debug\ClassesAndObjectsInC.pdb
